@@ -1,0 +1,17 @@
+{
+  "created_at": "2025-09-29T20:53:36.530396Z",
+  "rows_total": 9116,
+  "rows_train": 7292,
+  "rows_test": 1824,
+  "mae": 6440569.227613399,
+  "rmse": 13950681.99967052,
+  "r2": 0.6011429440145719,
+  "target": "price_inr",
+  "features": [
+    "area_sqft",
+    "bhk",
+    "bathrooms",
+    "city"
+  ],
+  "sklearn_version": "1.7.2"
+}

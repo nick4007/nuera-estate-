@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+
+User-agent: Googlebot-Image
+Disallow: /assets/images/lazyimgmob.JPG
+
+User-agent: Googlebot-Image
+Disallow: /assets/images/lazyimg.JPG
+

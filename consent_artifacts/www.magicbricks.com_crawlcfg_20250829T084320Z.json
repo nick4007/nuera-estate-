@@ -1,0 +1,6 @@
+{
+  "user_agent": "NeuraEstateBot/1.0 (+contact@example.com)",
+  "robots_url": "https://www.magicbricks.com/robots.txt",
+  "detected_crawl_delay_hint_seconds": null,
+  "default_min_interval_seconds": 1.0
+}

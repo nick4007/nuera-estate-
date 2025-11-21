@@ -1,0 +1,36 @@
+2025-08-29 21:38:43,048 | INFO     | neuraestate | ✅ Tables created successfully.
+2025-08-29 21:39:20,441 | INFO     | neuraestate | Parsed demo listing from https://example.com/
+2025-08-29 21:42:24,536 | INFO     | neuraestate | ✅ Tables created successfully.
+2025-08-29 21:42:36,429 | INFO     | neuraestate | Parsed demo listing from https://example.com/
+2025-08-29 21:42:36,548 | INFO     | neuraestate | ✅ Upserted 1 listings.
+2025-08-29 23:09:07,334 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:15:37,044 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:15:37,171 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:15:45,076 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap-index.xml: 404
+2025-08-29 23:15:45,076 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap-index.xml
+2025-08-29 23:15:56,065 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:15:56,786 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:22:06,593 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:22:06,742 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:22:14,580 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap.xml: 404
+2025-08-29 23:22:14,581 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap.xml
+2025-08-29 23:22:21,768 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap.xml: 404
+2025-08-29 23:22:21,768 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap.xml
+2025-08-29 23:22:28,959 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap-index.xml: 404
+2025-08-29 23:22:28,959 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap-index.xml
+2025-08-29 23:22:36,358 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemapindex.xml: 404
+2025-08-29 23:22:36,360 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemapindex.xml
+2025-08-29 23:22:43,494 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap-static.xml: 404
+2025-08-29 23:22:43,495 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap-static.xml
+2025-08-29 23:30:30,134 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:30:30,272 | INFO     | neuraestate.logging_setup | Loaded logging config from C:\Users\Anshul Singh\neuraestate\logging.yaml
+2025-08-29 23:30:37,866 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap.xml: 404
+2025-08-29 23:30:37,867 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap.xml
+2025-08-29 23:30:45,058 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap.xml: 404
+2025-08-29 23:30:45,059 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap.xml
+2025-08-29 23:30:52,289 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap-index.xml: 404
+2025-08-29 23:30:52,290 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap-index.xml
+2025-08-29 23:30:59,937 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemapindex.xml: 404
+2025-08-29 23:30:59,939 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemapindex.xml
+2025-08-29 23:31:07,560 | WARNING  | neuraestate | Last HTTP status for https://www.magicbricks.com/sitemap/sitemap-static.xml: 404
+2025-08-29 23:31:07,561 | WARNING  | neuraestate | HTTP 404: https://www.magicbricks.com/sitemap/sitemap-static.xml

@@ -1,0 +1,98 @@
+User-agent: *
+Disallow: /6225870/
+Disallow: /_s/
+Disallow: /nm/
+Disallow: /sms-service*
+Disallow: /apartments-for-sale?search_intent*
+Disallow: /apartments-for-rent?search_intent*
+Disallow: /index/search*
+Disallow: /for_sale*
+Disallow: /for_rent*
+Disallow: /property-search*
+Disallow: /listing-search*
+Disallow: /project-search*
+Disallow: /sem*
+Disallow: /weekend-guide*
+Disallow: /channel*
+Disallow: /agent/*/cfap-*/listings-sale
+Disallow: /agent/*/cfap-*/listings-rent
+Disallow: /location-listing/*
+Disallow: /property-listing-public/*
+Disallow: /authorize/
+Disallow: /freetext-search?*
+Disallow: /search?*
+Sitemap: https://www.commonfloor.com/sitemap/sitemap_index.xml
+
+User-agent: psbot/0.1
+Disallow: /
+
+User-agent: Twiceler www.cuill.com/robots.html
+Disallow: /
+
+User-agent: Twiceler-0.9 http://www.cuill.com/twiceler/robot.html
+Disallow: /
+
+User-agent: Dwaarbot+(dwaarbot@dwaar.com)
+Disallow: /
+
+User-agent: CazoodleBot
+Disallow: /
+
+User-agent: Gigaï¿½mega.bot/1.0; +http://www.gigaï¿½mega.net/bot.html
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: Baidu
+Disallow: /
+
+User-agent: Speedy
+Disallow: /
+
+User-agent: IIITBOT/1.1 (Indian Language Web Search Engine; http://webkhoj.iiit.net; pvvpr at iiit dot ac dot in)
+Disallow: /
+
+User-agent: boitho.com-dc
+Disallow: /
+
+User-agent: ccbot
+Disallow: /
+
+User-agent: seekbot
+Disallow: /
+
+User-agent: Pete-Spider Light
+Disallow: /
+
+User-agent: Yandex
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: Bingbot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: Amazonbot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+User-agent: Applebot
+Disallow: /
+
+User-agent: Claude-User
+User-agent: ChatGPT-User
+User-agent: Perplexity-User
+Disallow:

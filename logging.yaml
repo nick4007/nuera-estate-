@@ -1,0 +1,31 @@
+version: 1
+
+formatters:
+  standard:
+    format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: standard
+
+  file:
+    class: logging.handlers.RotatingFileHandler
+    level: INFO
+    formatter: standard
+    filename: logs/neuraestate.log   # log file path
+    maxBytes: 1048576                # ~1 MB
+    backupCount: 3
+    encoding: utf-8
+
+loggers:
+  neuraestate:
+    level: INFO
+    handlers: [console, file]
+    propagate: no
+
+root:
+  level: INFO
+  handlers: [console]
+

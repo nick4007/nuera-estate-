@@ -1,0 +1,6 @@
+{
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0 Safari/537.36; NeuraEstateBot/1.0 (+you@example.com)",
+  "robots_url": "https://www.commonfloor.com/robots.txt",
+  "detected_crawl_delay_hint_seconds": null,
+  "default_min_interval_seconds": 1.0
+}
